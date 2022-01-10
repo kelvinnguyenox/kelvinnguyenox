@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Java Web
 
-- 📫 How to reach me:quykaba@gmail.com
+- 📫 How to reach me: quykaba@gmail.com 
