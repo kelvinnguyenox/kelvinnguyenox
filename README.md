@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on HIT
 
-- 🌱 I’m currently learning Java Web
+- 🌱 I’m currently learning web development
 
 - 📫 How to reach me: quykaba@gmail.com 
 
