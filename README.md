@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huannd0101&theme=radical)
+
 ### Hi there 👋 I'm Quy
 
 - 🔭 I’m currently working on HIT
