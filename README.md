@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on HIT
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning blockchain development
 
 - 📫 How to reach me: quykaba@gmail.com 
 
