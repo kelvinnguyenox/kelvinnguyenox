@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Quy
 
-- 🔭 I’m currently working on HIT
+- 🔭 I’m currently working on the VMO company
 
 - 🌱 I’m currently work as blockchain dev
 
