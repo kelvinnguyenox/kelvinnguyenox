@@ -1,9 +1,7 @@
 
 ### Hi there 👋 I'm Quy
 
-- 🔭 I’m currently working on the VMO company
-
-- 🌱 I’m currently work as blockchain dev
+- 🌱 I’m currently work as blockchain developer
 
 - 📫 How to reach me: nguyenxuanquy1106@gmail.com 
 
