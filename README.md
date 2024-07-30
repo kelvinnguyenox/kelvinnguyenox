@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: kelvinnguyenox@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenxuanquy10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinnguyenox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
