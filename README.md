@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Kelvin
 
-- 🌱 I’m currently work as full stack web3 - blockchain developer
+- 🌱 I’m currently work as full stack web3 - blockchain engineer
 
 - 📫 How to reach me: kelvinnguyenox@gmail.com
 
